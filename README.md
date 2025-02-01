@@ -7,7 +7,7 @@ Not all students are using the same Operating System (OS). The goal of this cour
 
 Please make sure you have:
 
-1. [VScode](https://code.visualstudio.com/) or your own choice of IDE (Integrated Development Environment). It is not mandatory to use VScode, but the classes and videos will be shown in VScode.
+1. [Jupyter Lab](https://jupyter.org/) or [VScode](https://code.visualstudio.com/) or your own choice of IDE (Integrated Development Environment). The classes and videos will be shown in Jupyter Lab.
 1. [Anaconda Navigator](https://www.anaconda.com/download/)
 1. A [github](https://github.com/) account (don't worry it is free). We suggest you fill up your profile as it can act as an extension of your Linkedin account. Recruiters notice it.
-1. [Git](https://git-scm.com/) on your machine. For Windows, please install [git-bash](). 
+1. [Git](https://git-scm.com/) on your machine. For Windows, please install [git-bash](https://git-scm.com/downloads). 
