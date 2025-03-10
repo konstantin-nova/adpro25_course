@@ -1,5 +1,6 @@
 caco = pd.read_csv("../Files/Cacophony_sales.csv")
-caco['date'] = pd.to_datetime(caco['date'])
+caco['date'] = pd.to_datetime(caco['date'], format)
+caco.sort_values(by='date', inlplace='True')
 
 fig, ax = plt.subplots(figsize=(15,6))
 
